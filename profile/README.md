@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ System Architecture
 <img width="600px" src="https://github.com/Mini-MLOps/.github/assets/69310195/c5b9ba67-6ec9-49c4-ab67-86f5b3ef7579" />
 
 ---
